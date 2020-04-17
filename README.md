@@ -46,3 +46,7 @@ Basic CLV gave unrealistically high CLV - 21725.62 USD per customer. Granular CL
 Traditional CLV, however, gave a more realistic number - only 141.69 USD per customer and was based on the real retention to churn ratio as a proxy for the customer lifespan. <br>
 
 Still, the traditional CLV method assumed that the churn is final, i.e. customers that churn do not come back later. Hence, it might underreport actual CLV, especially with low retention rates as in our case (19%).
+
+## Acknowledgement
+
+This project is part of ["Machine Learning for Marketing" course on Data Camp](https://learn.datacamp.com/courses/machine-learning-for-marketing-in-python) taught by Karolis Urbonas, Global Head of Machine Learning and Science at Amazon Web Services (AWS).
